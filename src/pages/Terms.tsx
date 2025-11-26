@@ -56,7 +56,7 @@ const Terms = () => {
     {
       title: "Governing Law",
       content:
-        "These Terms of Service shall be governed by and construed in accordance with the laws of Nigeria. Any disputes arising from these terms shall be subject to the exclusive jurisdiction of Nigerian courts.",
+        "These Terms of Service shall be governed by and construed in accordance with the laws of the United States. Any disputes arising from these terms shall be subject to the exclusive jurisdiction of courts in the United States.",
     },
     {
       title: "Changes to Terms",
@@ -143,7 +143,7 @@ const Terms = () => {
                       <strong>Email:</strong> info@lawonecloud.com
                     </p>
                     <p>
-                      <strong>Address:</strong> Port Harcourt, Rivers State, Nigeria
+                      <strong>Address:</strong> Maryland, USA
                     </p>
                   </div>
                 </CardContent>

@@ -117,7 +117,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Location",
-      content: "Port Harcourt, Rivers State, Nigeria",
+      content: "Maryland, USA",
     },
     {
       icon: Mail,
@@ -128,8 +128,8 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Phone",
-      content: "+234 XXX XXX XXXX",
-      link: "tel:+234XXXXXXXXX",
+      content: "+1 4099952315",
+      link: "tel:+14099952315",
     },
   ];
 
@@ -273,7 +273,7 @@ const Contact = () => {
                           name="phone"
                           value={formData.phone}
                           onChange={handleChange}
-                          placeholder="+234 XXX XXX XXXX"
+                          placeholder="+1 4099952315"
                         />
                       </div>
 

@@ -82,7 +82,7 @@ const Home = () => {
 
   const whyChoose = [
     "Proven expertise in AI and software development",
-    "Tailored solutions for African markets",
+    "Tailored solutions for international markets",
     "End-to-end project delivery",
     "Cutting-edge technology stack",
     "Local expertise with global standards",
@@ -125,7 +125,7 @@ const Home = () => {
               transition={{ delay: 0.4, duration: 0.8 }}
               className="text-xl md:text-2xl mb-8 text-white/90 max-w-2xl"
             >
-              Custom software development and AI-powered applications that drive efficiency and growth for African businesses
+              Custom software development and AI-powered applications that drive efficiency and growth for businesses worldwide
             </motion.p>
             
             <motion.div
@@ -255,7 +255,7 @@ const Home = () => {
                   </div>
                   <div className="bg-white/10 rounded-lg p-4 backdrop-blur-sm">
                     <h4 className="text-white font-semibold mb-2">Market Focus</h4>
-                    <p className="text-white/80">Nigeria and Pan-African market with international standards</p>
+                    <p className="text-white/80">US-based with global reach, specializing in African and international markets</p>
                   </div>
                 </div>
               </div>

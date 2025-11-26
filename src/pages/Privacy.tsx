@@ -120,7 +120,7 @@ const Privacy = () => {
                       <strong>Email:</strong> info@lawonecloud.com
                     </p>
                     <p>
-                      <strong>Address:</strong> Port Harcourt, Rivers State, Nigeria
+                      <strong>Address:</strong> Maryland, USA
                     </p>
                   </div>
                 </CardContent>
